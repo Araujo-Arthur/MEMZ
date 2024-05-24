@@ -1,5 +1,6 @@
-#first try to convert the original exe2bat from leurak
+#First try to convert the original exe2bat from leurak to python 3
 #Special Thanks to ChatGPT LOL
+#Maybe I coukd switch it to another languge for better compatibility
 import sys
 import os
 import base64
